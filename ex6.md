@@ -1,0 +1,1 @@
+This is to test renaming and deleting a file.
